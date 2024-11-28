@@ -1,4 +1,8 @@
-# tcc
+# TCC
+
+- Camily Lummertz e Isadora Sofia Marcelino Pereira
+- Turma 2° ano B
+  
 # Sistema Integrado para Prestação de Serviços em Eventos
 
 ## Descrição
@@ -10,8 +14,8 @@ O *Sistema Integrado para Prestação de Serviços em Eventos* foi desenvolvido 
 O sistema oferece as seguintes funcionalidades:
 
 - *Agendamento de eventos*: Planejamento e organização de datas, horários e locais para eventos.
-- *Gestão de contratos*: Inclusão e acompanhamento de contratos com com informações do evento.
+- *Gestão de contratos*: Inclusão e acompanhamento de contratos com informações do evento.
 - *Gestão de prestadores de serviços*: Cadastro e controle de fornecedores terceirizados, como equipes de segurança e limpeza.
-- *Controle de pagamentos*: Monitoramento de pagamentos para prestadores de serviços, fornecedores e outros envolvidos na organização do evento.
+- *Controle de pagamentos*: Monitoramento de pagamentos.
 
 ## Tecnologias utilizadas
